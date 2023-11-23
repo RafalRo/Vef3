@@ -1,0 +1,67 @@
+body{
+    background-color: aliceblue;
+}
+
+/* main content grid */
+.grid-container {
+    display: grid;
+    row-gap: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.grid-content{
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+.menu-bar {
+    text-align: end;
+}
+
+.menu-bar li {
+    display: inline-flex;
+    list-style: none;
+    color: black;
+}
+.img_left{
+    float: left;
+    padding: 10px;
+ }
+
+/* navbar */
+
+.logo{
+    
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-size: bold;
+}
+
+.navbar{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    height: 80px;
+    width: 100%;
+    
+
+}
+.navbar ul {
+    float: right;
+    margin-right: 20px;
+}
+
+.navbar ul li a{
+    display: inline-block;
+    line-height: 40px;
+    margin: 0 5px;
+}
+
+a.active, a:hover {
+    background: #939494;
+    transition: .5s;
+}
