@@ -1,0 +1,31 @@
+header{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: flex;
+    width: 100%;
+    min-height: 66px;
+    background: lightgray;
+    padding: 0 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header ul li{
+    position: relative;
+    list-style: none;
+    float: left;
+}
+
+header ul li a {
+    color: black;
+    font-size: 1.1em;
+    padding: 20px 25px;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+header ul li a:hover{
+    background: rgb(182, 182, 182);
+}

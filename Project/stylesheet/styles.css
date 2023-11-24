@@ -29,39 +29,12 @@ body{
     padding: 10px;
  }
 
-/* navbar */
-
-.logo{
-    
-    font-size: 35px;
-    line-height: 80px;
-    padding: 0 100px;
-    font-size: bold;
+ .grid-container-details{
+    display: grid;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10em;
+    padding-bottom: 10em;
 }
 
-.navbar{
-    padding: 0;
-    margin: 0;
-    text-decoration: none;
-    list-style: none;
-    box-sizing: border-box;
-    height: 80px;
-    width: 100%;
-    
 
-}
-.navbar ul {
-    float: right;
-    margin-right: 20px;
-}
-
-.navbar ul li a{
-    display: inline-block;
-    line-height: 40px;
-    margin: 0 5px;
-}
-
-a.active, a:hover {
-    background: #939494;
-    transition: .5s;
-}
