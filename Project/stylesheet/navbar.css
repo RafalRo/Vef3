@@ -5,11 +5,13 @@ header{
     position: flex;
     width: 100%;
     min-height: 66px;
-    background: lightgray;
-    padding: 0 100px;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-bottom: 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 header ul li{
     position: relative;
@@ -27,5 +29,9 @@ header ul li a {
 }
 
 header ul li a:hover{
-    background: rgb(182, 182, 182);
+    background: lightgray;
+}
+.line{
+    height: 1px;
+    background: black;
 }

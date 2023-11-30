@@ -1,20 +1,17 @@
 body{
     background-color: aliceblue;
+    display: grid;
+    place-items: center;
 }
 
 /* main content grid */
 .grid-container {
     display: grid;
-    row-gap: 50px;
-    padding-left: 20%;
-    padding-right: 20%;
+    grid-template-columns: 320px 300px;
+    row-gap: 30px;
+
 }
 
-.grid-content{
-    display: grid;
-    grid-column-start: 1;
-    grid-column-end: 2;
-}
 .menu-bar {
     text-align: end;
 }
@@ -24,17 +21,8 @@ body{
     list-style: none;
     color: black;
 }
-.img_left{
-    float: left;
-    padding: 10px;
- }
 
- .grid-container-details{
-    display: grid;
-    padding-left: 20%;
-    padding-right: 20%;
-    padding-top: 10em;
-    padding-bottom: 10em;
+.button {
+    display: flex;
+
 }
-
-
