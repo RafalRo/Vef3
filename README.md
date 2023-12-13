@@ -6,6 +6,10 @@
 
 11.12 - 13.12 - Trouble shooting, finishing touches
 
+Update 13/12/23:
+Project fór ekki létt eins og ég held.
+Þad var erfitt verkefni til að læra.
+Sida virkar er vantar i henni nokkra hluti eins og shopping card og nokkra design ideas.
 
 
 (30%) Ítarleg verkefnalýsing byggð á; Double dimond, notendasögum (user stories) og
