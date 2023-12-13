@@ -1,0 +1,51 @@
+header {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 66px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff; 
+    padding-left: 8%; 
+    padding-right: 8%; 
+  }
+  
+  header ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  header ul li {
+    margin-right: 20px; 
+  }
+  
+  header ul li:last-child {
+    margin-right: 0; 
+  }
+  
+  header ul li a {
+    color: black;
+    font-size: 1.1em;
+    text-decoration: none;
+    padding: 15px 20px; 
+    display: flex;
+    align-items: center; 
+  }
+  
+  header ul li a:hover {
+    background: lightgray;
+  }
+  
+  .line {
+    height: 1px;
+    background: black;
+  }
+  
+  .logo {
+    max-width: 100px;
+    max-height: 100px;
+  }

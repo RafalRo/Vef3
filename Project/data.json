@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "Name": "Lemon Drop Shot",
+    "Description": "A zesty and refreshing shot with a citrus twist",
+    "ingredients": {
+      "Vodka": "30ml",
+      "Triple Sec": "15ml",
+      "Lemon Juice": "15ml",
+      "Simple Syrup": "10ml"
+    },
+    "Recipe": "Shake vodka, triple sec, lemon juice, and simple syrup with ice. Strain into a shot glass. Optionally, rim the glass with sugar.",
+    "image": "../images/lemon-drop-shot.jpg"
+  },
+  {
+    "id": 2,
+    "Name": "Moscow Mule",
+    "Description": "A classic and refreshing cocktail with a ginger kick",
+    "ingredients": {
+      "Vodka": "50ml",
+      "Ginger Beer": "100ml",
+      "Lime Juice": "15ml",
+      "Simple Syrup": "10ml"
+    },
+    "Recipe": "Combine vodka, ginger beer, lime juice, and simple syrup in a copper mug filled with ice. Stir and garnish with a lime wedge.",
+    "image": "../images/moscow-mule.jpg"
+  },
+  {
+    "id": 3,
+    "Name": "Cosmopolitan",
+    "Description": "A sophisticated and tangy cocktail for cosmopolitan tastes",
+    "ingredients": {
+      "Vodka": "40ml",
+      "Triple Sec": "15ml",
+      "Cranberry Juice": "30ml",
+      "Lime Juice": "15ml"
+    },
+    "Recipe": "Shake vodka, triple sec, cranberry juice, and lime juice with ice. Strain into a chilled martini glass. Garnish with an orange twist.",
+    "image": "../images/cosmopolitan.jpg"
+  },
+  {
+    "id": 4,
+    "Name": "Espresso Martini",
+    "Description": "A delightful blend of coffee and spirits for coffee lovers",
+    "ingredients": {
+      "Vodka": "50ml",
+      "Coffee Liqueur": "25ml",
+      "Espresso": "25ml",
+      "Simple Syrup": "10ml"
+    },
+    "Recipe": "Shake vodka, coffee liqueur, espresso, and simple syrup with ice. Strain into a chilled martini glass. Garnish with coffee beans.",
+    "image": "../images/espresso-martini.jpg"
+  },
+  {
+    "id": 5,
+    "Name": "Piña Colada",
+    "Description": "A tropical and creamy cocktail that transports you to the beach",
+    "ingredients": {
+      "White Rum": "60ml",
+      "Coconut Cream": "90ml",
+      "Pineapple Juice": "90ml",
+      "Pineapple Chunk": "for garnish"
+    },
+    "Recipe": "Blend white rum, coconut cream, and pineapple juice with ice until smooth. Pour into a chilled glass and garnish with a pineapple chunk.",
+    "image": "../images/pina-colada.jpg"
+  },
+  {
+    "id": 6,
+    "Name": "Whiskey Sour",
+    "Description": "A classic sour cocktail with the rich flavor of whiskey",
+    "ingredients": {
+      "Bourbon Whiskey": "60ml",
+      "Lemon Juice": "30ml",
+      "Simple Syrup": "15ml",
+      "Egg White": "1"
+    },
+    "Recipe": "Shake bourbon whiskey, lemon juice, simple syrup, and egg white without ice. Add ice and shake again. Strain into a rocks glass over ice.",
+    "image": "../images/whiskey-sour.jpg"
+  },
+  {
+    "id": 7,
+    "Name": "Mai Tai",
+    "Description": "A tropical and fruity tiki cocktail with a punch",
+    "ingredients": {
+      "Light Rum": "50ml",
+      "Dark Rum": "25ml",
+      "Orange Liqueur": "15ml",
+      "Orgeat Syrup": "15ml",
+      "Lime Juice": "20ml",
+      "Pineapple Leaf": "for garnish"
+    },
+    "Recipe": "Shake light rum, dark rum, orange liqueur, orgeat syrup, and lime juice with ice. Strain into a glass filled with crushed ice. Garnish with a pineapple leaf.",
+    "image": "../images/mai-tai.jpg"
+  },
+  {
+    "id": 8,
+    "Name": "Negroni",
+    "Description": "A bitter and bold cocktail with the perfect balance of flavors",
+    "ingredients": {
+      "Gin": "30ml",
+      "Campari": "30ml",
+      "Sweet Vermouth": "30ml",
+      "Orange Twist": "for garnish"
+    },
+    "Recipe": "Stir gin, Campari, and sweet vermouth with ice. Strain into a rocks glass over ice. Garnish with an orange twist.",
+    "image": "../images/negroni.jpg"
+  }
+]
