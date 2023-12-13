@@ -1,7 +1,0 @@
-Make infinite scroll of drinks to user to randomly serach or scroll down about 20 drink then show
-a button to another site with all drinnks to search for.
--
-Make a serach button paired with api
--
-On main page maybe show popular drinks.
--
